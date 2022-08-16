@@ -1,0 +1,39 @@
+_repo: Into-Mexico-with-General-Scott-When-attached-to-the-Fourth-United-States-Infantry_68652
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stephens, Charles H.
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '25738'
+    url: http://www.gutenberg.org/2009/agents/25738
+creator:
+  author:
+    agent_name: Sabin, Edwin L. (Edwin Legrand)
+    alias: Sabin, Edwin Legrand
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '9476'
+    url: http://www.gutenberg.org/2009/agents/9476
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_L._Sabin
+description: ''
+gutenberg_issued: '2022-07-30'
+identifiers:
+  gutenberg: '68652'
+language: en
+pgterms:marc904: https://archive.org/details/intomexicowithge00sabiuoft
+pgterms:marc905: 20161126125435sabin
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: United States :J. B. Lippincott Company,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Into Mexico with General Scott: When attached to the Fourth United States
+  Infantry'
+url: http://www.gutenberg.org/ebooks/68652
